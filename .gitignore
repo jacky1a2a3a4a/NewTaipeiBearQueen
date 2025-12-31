@@ -23,3 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
+# Private data files
+[LINE]今年冬天有新北熊王.txt
+private/
+data/
+
